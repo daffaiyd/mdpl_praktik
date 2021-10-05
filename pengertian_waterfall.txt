@@ -1,1 +1,1 @@
-
+pembangunan sistem secara keseluruhan dilakukan melalui beberapa tahapan/langkah. Metode pengembangan perangkat lunak dikenal juga dengan istilah Software Development Life Cycle (SDLC). Metode Waterfall merupakan metode pengembangan perangkat lunak tertua sebab sifatnya yang natural. Metode Waterfall merupakan pendekatan SDLC paling awal yang digunakan untuk pengembangan perangkat lunak. Urutan dalam Metode Waterfall bersifat serial yang dimulai dari proses perencanaan, analisa, desain, dan implementasi pada sistem.
