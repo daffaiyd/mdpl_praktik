@@ -3,3 +3,7 @@ Pertemuan 1:
 - Pengantar MDPL Praktik
 - Life Cycle MDPL
 - Jenis- Jenis MDPL
+
+Pertemuan 2:
+- Materi tentang GIT dan GITHUB
+- Latihan GITHUB
