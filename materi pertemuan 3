@@ -1,5 +1,8 @@
 Agile model
-
 Model SDLC ini dapat memisahkan produk dengan proses dan waktu pengerjaannya secara cepat. Metodologi ini diyakini sangat efektif untuk keberhasilan penciptaan sebuah produk.
 Dalam metode ini, tim akan mencoba tiap produk yang sudah selesai untuk meminimalisir kesalahan.
 Namun, salah satu kelemahan dari metode ini dapat memicu proyek ke arah yang salah dan tidak sesuai dengan kemauan dan ekspektasi dari customer.
+
+Iterative model
+Metode SDLC ini merupakan metode yang memiliki repetisi tinggi. Developer akan menciptakan produk dengan versi cepat dan pastinya murah.
+Setelah itu, mereka akan mencoba produk dan merevisi jika ada kesalahan. Salah satu kekurangan dari metode ini adalah dapat mengkonsumsi bahan baku jika ada satu detail yang tertinggal untuk dikerjakan.
