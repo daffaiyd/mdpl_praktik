@@ -6,3 +6,5 @@ Pertemuan 1:
 Pertemuan 2:
 - Materi tentang GIT dan GITHUB
 - Latihan GITHUB
+
+ini cuma buat ngetes
