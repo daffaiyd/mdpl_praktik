@@ -6,3 +6,7 @@ Pertemuan 1:
 Pertemuan 2:
 - Materi tentang GIT dan GITHUB
 - Latihan GITHUB
+
+pertemuan 3:
+-
+- 
